@@ -1,12 +1,2 @@
-- 👋 Hi, I’m @Rio0109
--  I’m interested in Web development / app development
--  I’m currently learning Web design , and Android app development ( Kotlin, work in android studio )  ...
--  I’m looking to collaborate  ...
--  My source code is on private, in order to check it contact me ...
-- Reach me on: https://www.linkedin.com/in/ivan-ristovski-9b375220b/ ...
+- 👋 Hi, I’m Ivan Ristovski
 
-
-<!---
-Rio0109/Rio0109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
